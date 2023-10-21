@@ -1,11 +1,11 @@
 {
   "questions": [
     {
-      "questions": "Hello",
+      "question": "Hello",
       "answer": "Hey!"
     },
     {
-      "questions": "How are you bro",
+      "question": "How are you bro",
       "answer": "Everything is good, Tell something about youself?"
     }
   ]

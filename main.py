@@ -16,7 +16,7 @@ def find_best_match(user_question: str, questions: list[str]) -> str | None:
 
 def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
     for q in knowledge_base["questions"]:
-        if q["questions"] == question:
+        if q["question"] == question:
             return q["answer"]
 
 def chat_bot():
@@ -28,7 +28,7 @@ def chat_bot():
         if user_input.lower() == 'quit':
             break
 
-        best_match: str | None = find_best_match(user_input, [q["questions"] for q in knowledge_base["questions"]])
+        best_match: str | None = find_best_match(user_input, [q["question"] for q in knowledge_base["questions"]])
 
         if best_match:
             answer: str = get_answer_for_question(best_match, knowledge_base)
@@ -38,7 +38,7 @@ def chat_bot():
             new_answer: str = input('Type the answer or "skip" to Skip: ')
 
             if new_answer.lower() != 'skip':
-                knowledge_base["questions"].append({"questions": user_input, "answer": new_answer})
+                knowledge_base["questions"].append({"question": user_input, "answer": new_answer})
                 save_knowledge_base('knowledge_base.json', knowledge_base)
                 print('Bot: Thank You ! I learned a new response !')
 
