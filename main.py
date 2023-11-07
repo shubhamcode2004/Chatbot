@@ -45,16 +45,22 @@ def chat_bot():
 
         if best_match:
             answer: str = get_answer_for_question(best_match, knowledge_base)
+            print("")
             print(f'MineBot: {answer}')
+            print("")
         else:
             print('MineBot: I don\'t know the answer. Can you teach me ? ')
+            print("")
             new_answer: str = input('Type the answer or "skip" to Skip: ')
+            print("")
 
             if new_answer.lower() != 'skip':
                 if new_answer.lower() != '':
                     knowledge_base["questions"].append({"question": user_input, "answer": new_answer})
                     save_knowledge_base('knowledge_base.json', knowledge_base)
+                    print("")
                     print('MineBot: Thank You ! I learned a new response !')
+                    print("")
 
 print("")
 print("HELLO!")

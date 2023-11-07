@@ -3,6 +3,62 @@
     {
       "question": "Hello",
       "answer": "Hey!"
+    },
+    {
+      "question": "Who grants Mining Leases (ML) and Prospecting License-cum-Mining Lease (PL-cumML)?",
+      "answer": "As per the Mines and Minerals (Development & Regulation) Act (MMDR) Amendment Act 2015, the grant of Mining Leases (ML) and Prospecting License-cum-Mining Lease (PL-cum-ML) happens only through an auction process."
+    },
+    {
+      "question": "Who grants mineral concessions in India?",
+      "answer": "The State Governments grant the mineral concessions for all the minerals located within the boundary of the State, under the provisions of the MMDR Act, 1957, and Mineral Concession Rules (MCR), 1960. Under the provisions of the MMDR Act, 1957 and MCR, 1960, prior approval of the Central Government is required in the several cases."
+    },
+    {
+      "question": "Who has the authority to grant mining license?",
+      "answer": "Mineral Resources Department & respective State Government is empowered to sanction Prospecting License/Mining Lease."
+    },
+    {
+      "question": "What are the precautions to be taken for filing applications for obtaining Mineral Concessions?",
+      "answer": "The application must be filled within the prescribed format as per Mineral Concession Rule 2016. Entries must be complete in all respect and should be supported with documentary evidences as per the Rule."
+    },
+    {
+      "question": "What kind of mines does Central Government own?",
+      "answer": "The Central Government is the owner of the minerals underlying the ocean within the territorial waters or the Exclusive Economic Zone of India."
+    },
+    {
+      "question": "How much FDI is allowed in mining and exploration of metal and non-metal ores?",
+      "answer": "Coal & Lignite: 100% FDI is allowed under automatic route Mining and exploration of metals and nonmetals ores: 100% FDI is allowed under automatic route Mining and mineral separation of titanium bearing minerals and ores: 100% FDI is allowed under Govt."
+    },
+    {
+      "question": "What is the GST rate for minerals and ores in Composition Scheme?",
+      "answer": "In a case where the process amounts to manufacture, the rate of tax will be 1% (CGST) and 1% (SGST/UTGST). In any other case, the rate will be 0.5% (CGST) and 0.5% (SGST/UTGST)."
+    },
+    {
+      "question": "Will the basic exemption limit from GST be applicable to the tiny and micro segment in mining?",
+      "answer": "Yes, the basic exemption limit of $ 15,385 ($ 7693 in the case of special category States) is applicable to the tiny and micro segment even in mining. However, a person engaged in making taxable supply and having aggregate annual turnover (more than $ 15,385in any State other than the special category States) would be liable to obtain registration under GST. The return has to be filed on monthly basis by regular taxable persons and on quarterly basis by the taxable persons registered under the composition scheme."
+    },
+    {
+      "question": "What are the Existing Legislative Provisions regarding safety, health and welfare of mine workers?",
+      "answer": "Under the Constitution of India, safety, welfare and health of workers employed in mines are the concern of the Central Government (Entry 55- Union List- Article 246). The objective is regulated by the Mines Act, 1952 and the Rules and Regulations framed thereunder which are administered by the Directorate- General of Mines Safety (DGMS), under the Union Ministry of Labour and Employment. A list of the subordinate legislation under the Mines Act administered by DGMS are: 1) Coal Mines Regulations, 1957. 2) Metalliferous Mines Regulations, 1961. 3) Oil Mines Regulations, 1984. 4) Mines Rules, 1955. 5) Mines Vocational Training Rules, 1966. 6) Mines Rescue Rules, 1985. 7) Mines Creche Rules, 1966."
+    },
+    {
+      "question": "Will ITC be available on steel, timber and sometimes cement which are used in the underground mines to provide a protective device for security purpose?",
+      "answer": "Credit will not be available, if these goods are supplied for construction of an immovable property. But if these are temporarily placed for protective purposes, credit will be available."
+    },
+    {
+      "question": "What are the activities of ENVIS Centre, MINENVIS ?",
+      "answer": "Maintains a database management system to cater to the requirements of various users/stakeholders of the mineral industry and regularly publishes Newsletters and Monographs."
+    },
+    {
+      "question": "Which are the concerned government offices/services under mining segment?",
+      "answer": "Following are government departments under mining sector: i. The Ministry of Mines, Government of India ii. The Geological Survey of India iii. The Indian Bureau of Mines"
+    },
+    {
+      "question": "What are the key functions of the Ministry of Mines?",
+      "answer": "Ministry of Mines is responsible for survey and exploration of all minerals, other than natural gases, petroleum, atomic minerals for mining and metallurgy of non-ferrous metals like aluminium, copper, zinc, lead, gold, nickel etc. Also, the administration of the Mines and Minerals (Regulation and Development) Act, 1957 in respect to all mines and minerals other than coal, natural gas and petroleum comes under Ministry of Mines duties."
+    },
+    {
+      "question": "What is the schedule of charges for Mining Land Leases?",
+      "answer": "Schedule for Mining Leases is as follow For public sector organisation and private parties - INR. 15,000 For State Govt. agencies - INR. 7,500 For sale outside India to foreign buyers - US $ 881 INR. 1.50 per mining lease record subject to minimum charge of INR. 200 per district and per mineral."
     }
   ]
 }
